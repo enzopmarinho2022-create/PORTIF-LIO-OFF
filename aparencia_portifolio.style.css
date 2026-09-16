@@ -1,0 +1,163 @@
+*{
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0;
+}
+
+
+.cabecalho{
+background-color: rgb(7, 7, 7);
+color: aliceblue;
+padding: 100px;
+display: flex;
+justify-content: space-between;
+align-items: center;
+height: 50px;
+font-size: xx-large;
+
+
+}
+
+nav{
+display: flex;
+gap: 20px;
+
+
+
+
+}
+.banner{
+    background-color: rgb(126, 126, 138);
+    color: rgb(5, 21, 34);
+    padding: 3px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-size: large;
+    flex-direction: column;
+    gap: 2px;
+    
+    
+    }
+.catalogo{
+  background-color: rgb(255, 255, 255);
+ color: rgb(49, 46, 42);
+ 
+ 
+ font-size: x-large;
+    
+        
+        
+}
+.produtos img{
+width: 280px;
+height: 270px;
+
+
+
+
+}
+.banner p{
+font-size: large;
+
+
+
+
+
+}
+.banner h1{
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+
+
+
+
+}
+.rodape{
+ background-color: rgb(7, 7, 7);
+ color: aliceblue;
+ padding: 40px;
+  display: flex;
+ justify-content: space-between;
+  align-items: center;
+  height: 95px;
+  font-size: large;
+    
+    
+}
+.catalogo h2{
+text-align: center;
+
+
+
+
+
+}
+.produto{
+border: 2px solid black;
+border-radius: 10px;
+align-items: center;
+display: flex;
+gap: 2px;
+display: flex;
+flex-direction: column;
+width: 665px;
+
+
+
+
+
+
+
+
+}
+
+.produto button{
+background-color: rgb(55, 0, 255);
+border-radius: 10px;
+padding: 15px 13px;
+cursor: pointer;
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+
+
+
+}
+.produto button:hover{
+transform: scale(1.05);
+transition:  1s;
+
+
+
+
+
+}
+.produtos h1{
+align-items: center;
+display: flex;
+
+
+
+
+
+}
+.produtos{
+ align-items: center;
+display: flex;
+    
+
+
+
+
+
+}
+.catalogo h1{
+align-items: center;
+display: flex;
+
+
+
+}
+
+
+
+
